@@ -27,7 +27,7 @@ variable "aks_agents_size" {
 variable "aks_agents_count" {
   description = "AKS agents count"
   type        = number
-  default     = 2
+  default     = null
 }
 
 variable "aks_agents_min_count" {
@@ -38,6 +38,12 @@ variable "aks_agents_min_count" {
 
 variable "aks_agents_max_count" {
   description = "AKS agents max count"
+  type        = number
+  default     = null
+}
+
+variable "aks_agents_max_pods" {
+  description = "AKS agents max pods"
   type        = number
   default     = null
 }
