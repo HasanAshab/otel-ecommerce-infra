@@ -6,11 +6,6 @@
 This repository contains the infrastructure (IaC) for [the Spring React DevOps App Service](https://github.com/HasanAshab/otel-ecomerce-devops) project.
 
 
-## 🏗️ Architecture Diagram
-
-![Architecture Diagram](static/images/architecture.png)
-
-
 ## ⚙️ CI/CD Pipeline
 
 ![Push Pipeline](static/images/cicd.png)
