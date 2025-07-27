@@ -43,5 +43,9 @@ module "aks" {
   network_plugin                       = "azure"
 
   # this module uses data source on rg so it should be created first
+  # from : ovi
+  # msg: It should be created first and also will created first because of
+  # azurerm_resource_group.this.name & azurerm_resource_group.this.location then why
+  # used depends on
   depends_on = [azurerm_resource_group.this]
 }
