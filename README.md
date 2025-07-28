@@ -1,9 +1,9 @@
-# otel-ecomerce-infra
+# otel-ecommerce-infra
 
-[![CI-CD pipeline](https://github.com/HasanAshab/otel-ecomerce-infra/actions/workflows/cicd.yaml/badge.svg)](https://github.com/HasanAshab/otel-ecomerce-infra/actions/workflows/cicd.yaml)
-[![Drift Detection](https://github.com/HasanAshab/otel-ecomerce-infra/actions/workflows/drift.yaml/badge.svg)](https://github.com/HasanAshab/otel-ecomerce-infra/actions/workflows/drift.yaml)
+[![CI-CD pipeline](https://github.com/HasanAshab/otel-ecommerce-infra/actions/workflows/cicd.yaml/badge.svg)](https://github.com/HasanAshab/otel-ecommerce-infra/actions/workflows/cicd.yaml)
+[![Drift Detection](https://github.com/HasanAshab/otel-ecommerce-infra/actions/workflows/drift.yaml/badge.svg)](https://github.com/HasanAshab/otel-ecommerce-infra/actions/workflows/drift.yaml)
 
-This repository contains the infrastructure (IaC) for [the Spring React DevOps App Service](https://github.com/HasanAshab/otel-ecomerce-devops) project.
+This repository contains the infrastructure (IaC) for [the Spring React DevOps App Service](https://github.com/HasanAshab/otel-ecommerce-devops) project.
 
 
 ## ⚙️ CI/CD Pipeline
